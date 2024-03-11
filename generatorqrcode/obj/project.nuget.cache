@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZnZH6Ejma/A35aVUC5aub02xG3PXK2LunP+3lF4LZENKtgEws3qWVcNmj5uHJohGgvq4wITFTP5b0Z0Rv2isA==",
+  "success": true,
+  "projectFilePath": "D:\\Languange\\Old\\C#\\generatorqrcode\\generatorqrcode\\generatorqrcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramzayev German\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\Ramzayev German\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\Ramzayev German\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
