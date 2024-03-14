@@ -71,7 +71,7 @@ namespace generatorqrcode
 
         private void menuItem8_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://t.me/rivixal_official");
+            System.Diagnostics.Process.Start("https://github.com/Rivixal");
 
         }
     }
